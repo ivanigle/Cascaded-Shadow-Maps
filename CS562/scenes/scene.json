@@ -1,0 +1,68 @@
+{
+    "objects": 
+    [
+        {
+            "mesh": "./models/dragon/dragon.obj",
+            "translation": 
+            {
+                "x": 1.0,
+                "y": 50.0,
+                "z": 1.0
+            },
+            "rotate": 
+            {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "scale": 
+            {
+                "x": 10.0,
+                "y": 10.0,
+                "z": 10.0
+            }
+        },
+		{
+            "mesh": "./models/dragon/dragon.obj",
+            "translation": 
+            {
+                "x": -80.0,
+                "y": 80.0,
+                "z": 50.0
+            },
+            "rotate": 
+            {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "scale": 
+            {
+                "x": 10.0,
+                "y": 10.0,
+                "z": 10.0
+            }
+        },
+		{
+            "mesh": "./models/dragon/dragon.obj",
+            "translation": 
+            {
+                "x": 10.0,
+                "y": 43.0,
+                "z": -95.0
+            },
+            "rotate": 
+            {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "scale": 
+            {
+                "x": 10.0,
+                "y": 10.0,
+                "z": 10.0
+            }
+        }		
+    ]
+}
